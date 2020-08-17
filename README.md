@@ -4,16 +4,17 @@ I love finding new python packages to explore, and seeing how to integrate them 
 So if you have a burning desire to create and print a wordcloud .png directly from a wikipedia article, about the noble sport of Chess-Boxing enjoy. 
 
 ##Data Extraction 
-1.wikipedia library
+* wikipedia library
 
 ##Data Wrangling
-1.pandas
-2.numpy
-3.os
-4.io
+* pandas
+* numpy
+* os
+* io
+
 ##Visualisation
-1.wordcloud 
-2.matplotlib
+* wordcloud 
+* matplotlib
   
  Please get hold of me if have any questions or queries. 
  
